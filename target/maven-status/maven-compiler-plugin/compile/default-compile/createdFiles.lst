@@ -1,0 +1,3 @@
+com\springboot\controller\UploadController.class
+com\springboot\main\SpringBootWebApplication.class
+com\springboot\controller\GlobalExceptionHandler.class
